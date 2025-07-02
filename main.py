@@ -41,7 +41,7 @@ def main():
         return plugboard.get(c, c)
 
     # define test string
-    plaintext = "ILBDA CXMLV NXJTZ STSPZ FSQDD ZSBFR UUOZF PCJXY FBS"
+    plaintext = "HELLO"
 
     ciphertext = ""
 
